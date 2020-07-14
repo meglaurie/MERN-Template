@@ -10,7 +10,7 @@ import ProjectsPage from './pages/ProjectsPage';
 import ProjectListPage from './pages/ProjectListPage'
 import ContactPage from './pages/ContactPage';
 import NotFoundPage from './pages/NotFoundPage';
-import './App.css'; 
+import './App.scss'; 
 import NavBar from './NavBar';
 
 function App() {
