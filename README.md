@@ -1,2 +1,2 @@
 # MERN-Template
-MERN Template frontend and backend set up, pages are routing, still adding CSS preprocessor 
+MERN Template development frontend and backend set up, Page router set up and working. 
